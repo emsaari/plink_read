@@ -1,4 +1,5 @@
-THis project is to teach me to use plink binary files in my own fortran ar.
+THis project is to teach me to use plink binary files in my own fortran applications.
+But can be used elsewhere also
 It consists of subroutines to 
 1)read plink bed files, and convert them to genotype count file.
 2)read genotype count files (Mfile) and convert them to bed file, and fam and bim files
