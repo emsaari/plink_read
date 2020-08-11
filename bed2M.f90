@@ -1,4 +1,5 @@
 program bed2M 
+! reads plink bed, fam and bim files and outputs genotype count matrix
 implicit none
 integer                      :: n,m,n4,i,j,j2,ioerr
 integer(kind=1), allocatable,dimension(:,:)    :: bed
